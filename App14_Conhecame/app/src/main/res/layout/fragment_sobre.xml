@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".FragmentSobre"
+             android:background="#E066FF">
+
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Nome: Ananda Hike Brunetti Fernandes\nData de nascimento: 17/01/2000\nIdade: 21 anos
+\nCidade de nascimento: Santos\nNome da mãe: Magali dos Sontos Hike
+\nNome do pai: Denis Brunetti Fernandes"
+            android:textSize="20dp"
+            android:id="@+id/txtNome"/>
+
+
+</FrameLayout>

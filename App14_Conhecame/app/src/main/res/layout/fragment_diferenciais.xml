@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".FragmentDiferenciais"
+             android:background="#E066FF">
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Sou uma pessoa que possui facilidade com trabalho em equipe. Sou organizada e pontual. Gosto de fazer as coisas com praticidade e eficiência. Tenho facilidade em aprender coisas novas."
+            android:textSize="20dp"
+            android:id="@+id/txtNome"/>
+
+</FrameLayout>

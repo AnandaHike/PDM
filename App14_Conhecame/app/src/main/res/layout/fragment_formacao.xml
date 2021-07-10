@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".FragmentFormacao"
+             android:background="#E066FF">
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Formação:\n\nEscolaridade:\nEnsino Médio\nETEC Dra. Ruth Cardoso\nConcluído em dezembro de 2017
+\n\nCurso Técnico:\nTécnico em Edificações\nETEC Dra. Ruth Cardoso\nConcluído em julho de 2017
+\n\nGraduação:\nAnálise e Desenvolvimento de Sistemas\nFaculdade de Tecnologia de Praia Grande\nPrevisão de conclusão: dezembro de 2021"
+            android:textSize="20dp"
+            android:id="@+id/txtNome"/>
+
+</FrameLayout>
