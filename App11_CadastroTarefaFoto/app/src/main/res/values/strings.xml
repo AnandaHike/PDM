@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tarefas</string>
+    <string name="titulo_lista">Lista de Tarefas</string>
+    <string name="titulo_cadastro">Cadastro de Tarefas</string>
+    <string-array name="opcoes_spinner">
+        <item>Segunda-feira</item>
+        <item>Terça-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+</resources>
